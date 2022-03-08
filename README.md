@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project Elixir](https://projectelixiros.com/home)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **Angular**
 
