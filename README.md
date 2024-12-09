@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixie-codes&label=Profile%20views&color=0e75b6&style=flat" alt="pixie-codes" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Angular**
 
